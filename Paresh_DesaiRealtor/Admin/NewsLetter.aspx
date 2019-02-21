@@ -1510,7 +1510,7 @@ function previewfunction(content) {
                                         <span style="float: left; font-size: 15px; color: #c48820;">Phone:</span>
                                         <span style="float: left; font-size: 14px; color: #FFF; margin: 0 10px 0 4px;">416-388-2405</span>
                                         <span style="float: left; font-size: 15px; color: #c48820; margin: 0 6px 0 1px">Email:</span>
-                                        <span style="float: left; font-size: 14px; color: #FFF;">realestatecanada@gmail.com</span>
+                                        <span style="float: left; font-size: 14px; color: #FFF;">realstatecanada@gmail.com</span>
                                     </p>
                                     <p style="float: left; width: 100%; margin: 0">
                                         <span style="float: left; font-size: 15px; color: #c48820;">Address:</span>

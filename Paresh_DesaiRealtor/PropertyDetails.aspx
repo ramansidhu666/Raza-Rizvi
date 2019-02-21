@@ -368,7 +368,7 @@
                     <div style="float: left; width: 33%; margin-top: 20px;">
                         <h2 style="margin-bottom: 5px; font-family:arial; font-size: 18px;">Raza Rizvi</h2>
                         <p style="margin-bottom: 5px; font-family:arial;">Sales Representative</p>
-                        <p style="font-weight: bold; margin-bottom: 5px; font-family:arial;">E-Mail:<span style="font-weight: normal; margin: 0 0px 0 6px;">realestatecanada@gmail.com</span></p>
+                        <p style="font-weight: bold; margin-bottom: 5px; font-family:arial;">E-Mail:<span style="font-weight: normal; margin: 0 0px 0 6px;">realstatecanada@gmail.com</span></p>
                         <p style="font-weight: bold; margin-bottom: 5px; font-family:arial;">Phone:<span style="font-weight: normal; margin: 0 0px 0 6px;">416-388-2405</span></p>
                     </div>
                     <div style="float: left; width: 31%; margin-top: 20px;">

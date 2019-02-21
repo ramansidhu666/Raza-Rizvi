@@ -1038,7 +1038,7 @@ function PostCard_Data() {
                                     <img src="/images/client_img.png" alt="" title="" style="width: 120px; height: 120px; border-radius: 66px; border: 2px solid white; margin: 3px 0;" />
                                     <h2 style="float: left; margin: 6px 0; text-align: center; width: 100%; color: white; font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold;">Raza Rizvi</h2>
                     <p style="float: left; text-align: center; margin: 2px 0; width: 100%; color: white; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">P: 416-388-2405</p>
-                    <p style="float: left; text-align: center; width: 100%; margin: 2px 0; color: white; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">realestatecanada@gmail.com | www.srazarizvi.com/</p>
+                    <p style="float: left; text-align: center; width: 100%; margin: 2px 0; color: white; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">realstatecanada@gmail.com | www.srazarizvi.com/</p>
                     <p style="float: left; text-align: center; width: 100%; color: white; margin: 2px 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">HomeLife/Miracle Realty Ltd., Brokerage*</p>
                     <p style="float: left; text-align: center; width: 100%; color: white; margin: 2px 0; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">1339 Matheson Blvd E, Mississauga, L4W1R1</p>
                                 </div>
@@ -1084,7 +1084,7 @@ function PostCard_Data() {
                                     <div style="float: left; background-color: #e8eaec; border-radius: 12px; padding: 12px;">
                                         <h2 style="float: left; width: 100%; color: #1c1c1c; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;">Raza Rizvi</h2>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-388-2405</p>
-                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: realestatecanada@gmail.com</p>
+                                        <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: realstatecanada@gmail.com</p>
                                         <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.srazarizvi.com/</p>
                                         <div style="float: left; width: 97%; padding: 8px; margin: 6px 0;">
                                             <img src="../PostCardImages/feature_futer_logo.png" alt="" title="" />
@@ -1179,7 +1179,7 @@ function PostCard_Data() {
                                         <div style="float: left; background-color: #e8eaec; border-radius: 12px; padding: 6px;">
                                             <h2 style="float: left; width: 100%; color: #1c1c1c; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0;">Raza Rizvi</h2>
                                             <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-388-2405</p>
-                                            <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: realestatecanada@gmail.com</p>
+                                            <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: realstatecanada@gmail.com</p>
                                             <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.srazarizvi.com/</p>
                                             <div style="float: left; width: 97%; padding: 8px; margin: 6px 0;">
                                                 <img src="/PostCardImages/feature_futer_logo.png" alt="" title="">
@@ -1265,7 +1265,7 @@ function PostCard_Data() {
                                         <div style="float: left; padding: 6px;">
                                             <h2 style="float: left; width: 100%; color: #b80a05; font-size: 28px; font-weight: bold; font-family: 'Times New Roman', Times, serif; font-style: italic; margin: 6px 0; border-bottom: 1px solid;">Raza Rizvi</h2>
                                             <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Call: 416-388-2405</p>
-                                            <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: realestatecanada@gmail.com</p>
+                                            <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Email: realstatecanada@gmail.com</p>
                                             <p style="float: left; width: 100%; color: #222222; font-family: 'Times New Roman', Times, serif; font-style: italic; font-size: 18px; margin: 2px 0;">Website: www.srazarizvi.com/</p>
                                             <div style="float: left; width: 98%; padding: 8px; margin: 6px 0;">
                                                 <img src="../PostCardImages/feature_futer_logo.png" alt="" title="" />

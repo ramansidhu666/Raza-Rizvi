@@ -130,7 +130,7 @@
                 <div class="header_detail_right">
                   <%-- <a href="#"><img src="images/MORTGAGE_BTN.png" alt="" title="" /></a> --%>
                    <i class="fa fa-envelope ftr_hdng2"></i>
-				    <a href="mailto:realestatecanada@gmail.com"><asp:Label ID="lblemailid" runat="server"></asp:Label></a>
+				    <a href="mailto:realstatecanada@gmail.com"><asp:Label ID="lblemailid" runat="server"></asp:Label></a>
                 </div>
             </div>
         </div>
@@ -521,7 +521,7 @@
                         <h5>Contact Info</h5>
                     </div>
                 <div class="fuuter_map">
-                 <h5>Email:<a href="mailto:realestatecanada@gmail.com"><asp:Label ID="lblemail" runat="server"></asp:Label></a></h5>
+                 <h5>Email:<a href="mailto:realstatecanada@gmail.com"><asp:Label ID="lblemail" runat="server"></asp:Label></a></h5>
                   <h5>Cell: <a href="tel:416-388-2405"><asp:Label ID="lblmobile2" runat="server"></asp:Label></a></h5>
                 </div>
             </div>
@@ -540,7 +540,7 @@
                 <div class="futer_mail_bg">
                     <div class="futer_mail">
                         <ul>
-                            <li><a href="mailto:realestatecanada@gmail.com">
+                            <li><a href="mailto:realstatecanada@gmail.com">
                                 <img alt="" src="images/mail_icnnn.png" /></a></li>
                             <li><a href="tel:416-388-2405">
                                 <img alt="" src="images/mbl_icnnn.png" /></a></li>
