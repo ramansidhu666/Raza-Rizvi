@@ -44,6 +44,11 @@ namespace Property.Controls
             Session["Favourite"] = null;
             if (!Page.IsPostBack)
             {
+                if (Request.QueryString["Rental"] == "Rental" )
+                {
+                    SearchResidentialProperties();
+                }
+                   
                 this.Page.Title = "Raghbir Realtor:Search Property";
                 Session["Municipality"] = Request.QueryString["Municipality"];
                 Session["QueryString"] = Request.QueryString["PropertyType"];
@@ -936,7 +941,10 @@ namespace Property.Controls
             {
                     Property1.MLSDataWebServiceSoapClient mlsClient = new Property1.MLSDataWebServiceSoapClient();
                     DataTable dt = new DataTable();
-
+                if(Request.QueryString["Rental"] == "Rental")
+                {
+                    dt= mlsClient.GetResidentialProperties("0", "", "0", "0", "0", "0", "Lease");
+                } 
                     if (Convert.ToString(Session["QueryString"]) == "Residential" && Session["Municipality"] == null)
                     {
                             dt = mlsClient.GetResidentialProperties("0", "0", "0", "0", "0", "0", "0");

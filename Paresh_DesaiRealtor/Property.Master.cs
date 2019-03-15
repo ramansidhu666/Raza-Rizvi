@@ -86,7 +86,7 @@ namespace Property
                 StrMenu.Append("<li><a href='http://www.sjto.gov.on.ca/ltb/' title='' target='_blank'>Landlord and Tenant Board</a></li>");
                 StrMenu.Append("<li><a href='http://www.sjto.gov.on.ca/ltb/help-for-landlords/' target='_blank'>Help for Landlords</a></li>");
                 StrMenu.Append("<li><a href='http://www.sjto.gov.on.ca/ltb/help-for-tenants/' target='_blank'>Help for Tenants </a></li>");
-                StrMenu.Append("<li><a href='#'>Rental Search</ a></li>");
+                StrMenu.Append("<li><a href='../Search.aspx?Rental=Rental'>Rental Search</ a></li>");
                 StrMenu.Append("</ul>");
                 StrMenu.Append("<li>");
                 StrMenu.Append("<li style='background:none;'><a href='home_worth.aspx' title='Home Evaluation'>Free Home Evaluation</a></li>");

@@ -113,26 +113,14 @@ namespace Property
                     }
                 }
 
-                //DataTable exclusive_dt = clsobj.GetExclusiveListing();
-
-                //StrMenu.Append("<li><a href=#>My Listing</a>");//</li>
-                //if (exclusive_dt.Rows.Count > 0)
-                //{
-                //    StrMenu.Append("<ul >");
-
-                //    for (int j = 0; j < exclusive_dt.Rows.Count; j++)
-                //    {
-                //        StrMenu.Append("<li><a href='../ExclusiveDetailPage.aspx?Id=" + exclusive_dt.Rows[j]["Id"] + "' title='Home'>" + exclusive_dt.Rows[j]["Title"] + "</a></li>");
-                //    }
-                //    StrMenu.Append("</ul>");
-                //}
+                
                 StrMenu.Append("<li><a href=#>Rental</a>");//</li>
 
                 StrMenu.Append("<ul >");
                 StrMenu.Append("<li><a href='http://www.sjto.gov.on.ca/ltb/' title='' target='_blank'>Landlord and Tenant Board</a></li>");
                 StrMenu.Append("<li><a href='http://www.sjto.gov.on.ca/ltb/help-for-landlords/' target='_blank'>Help for Landlords</a></li>");
                 StrMenu.Append("<li><a href='http://www.sjto.gov.on.ca/ltb/help-for-tenants/' target='_blank'>Help for Tenants </a></li>");
-                StrMenu.Append("<li><a href='#'>Rental Search</ a></li>");
+                StrMenu.Append("<li><a href='../Search.aspx?Rental=Rental'>Rental Search</ a></li>");
                 StrMenu.Append("</ul>");
                 StrMenu.Append("<li>");
                 StrMenu.Append("<li style='background:none;'><a href='home_worth.aspx' title='Home Evaluation'>Free Home Evaluation</a></li>");
